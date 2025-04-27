@@ -1,0 +1,42 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <!-- Placeholder images -->
+        <file>images/book_placeholder.png</file>
+        <file>images/movie_placeholder.png</file>
+        <file>images/magazine_placeholder.png</file>
+        <file>images/ebook_placeholder.png</file>
+        
+        <!-- Small icons -->
+        <file>images/book_icon.png</file>
+        <file>images/movie_icon.png</file>
+        <file>images/magazine_icon.png</file>
+        <file>images/ebook_icon.png</file>
+        
+        <!-- Application icons -->
+        <file>images/app_icon.png</file>
+        <file>images/new_icon.png</file>
+        <file>images/open_icon.png</file>
+        <file>images/save_icon.png</file>
+        <file>images/add_icon.png</file>
+        <file>images/edit_icon.png</file>
+        <file>images/delete_icon.png</file>
+        <file>images/search_icon.png</file>
+        <file>images/view_list_icon.png</file>
+        <file>images/view_detail_icon.png</file>
+        <file>images/view_grid_icon.png</file>
+        <file>images/export_icon.png</file>
+        <file>images/back_icon.png</file>
+        
+        <!-- Sample media covers -->
+        <file>images/sample_book_cover.jpg</file>
+        <file>images/sample_movie_cover.jpg</file>
+        <file>images/sample_magazine_cover.jpg</file>
+        <file>images/sample_ebook_cover.jpg</file>
+    </qresource>
+    
+    <qresource prefix="/styles">
+        <file>styles/default_style.qss</file>
+        <file>styles/dark_style.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,81 @@
+{
+    "library": [
+      {
+        "id": 1,
+        "type": "Book",
+        "title": "The Great Gatsby",
+        "releaseDate": "1925-04-10",
+        "publisher": "Charles Scribner's Sons",
+        "description": "Set in the Jazz Age on Long Island, the novel tells the story of the mysterious millionaire Jay Gatsby and his obsession with the beautiful former debutante Daisy Buchanan.",
+        "coverPath": "covers/gatsby.jpg",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "978-0743273565",
+        "pageCount": 180,
+        "genre": "Novel"
+      },
+      {
+        "id": 2,
+        "type": "Movie",
+        "title": "The Godfather",
+        "releaseDate": "1972-03-24",
+        "publisher": "Paramount Pictures",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "coverPath": "covers/godfather.jpg",
+        "director": "Francis Ford Coppola",
+        "duration": 175,
+        "cast": "Marlon Brando, Al Pacino, James Caan"
+      },
+      {
+        "id": 3,
+        "type": "Magazine",
+        "title": "National Geographic",
+        "releaseDate": "2023-06-01",
+        "publisher": "National Geographic Partners",
+        "description": "Monthly magazine known for its photography, cartography, and reports about history, science, geography, and world culture.",
+        "coverPath": "covers/natgeo.jpg",
+        "issue": "June 2023",
+        "volume": 243,
+        "issueNumber": 6,
+        "topic": "Science"
+      },
+      {
+        "id": 4,
+        "type": "Book",
+        "title": "To Kill a Mockingbird",
+        "releaseDate": "1960-07-11",
+        "publisher": "J. B. Lippincott & Co.",
+        "description": "The story of a young girl confronting deep-seated prejudice in her community, exploring themes of racial inequality and moral growth.",
+        "coverPath": "covers/mockingbird.jpg",
+        "author": "Harper Lee",
+        "isbn": "978-0061120084",
+        "pageCount": 281,
+        "genre": "Southern Gothic"
+      },
+      {
+        "id": 5,
+        "type": "Movie",
+        "title": "The Shawshank Redemption",
+        "releaseDate": "1994-09-23",
+        "publisher": "Columbia Pictures",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "coverPath": "covers/shawshank.jpg",
+        "director": "Frank Darabont",
+        "duration": 142,
+        "cast": "Tim Robbins, Morgan Freeman"
+      },
+      {
+        "id": 6,
+        "type": "EBook",
+        "title": "Clean Code",
+        "releaseDate": "2008-08-01",
+        "publisher": "Prentice Hall",
+        "description": "A handbook of agile software craftsmanship that helps programmers write cleaner, more maintainable code.",
+        "coverPath": "covers/cleancode.jpg",
+        "author": "Robert C. Martin",
+        "isbn": "978-0132350884",
+        "pageCount": 464,
+        "format": "PDF",
+        "fileSizeMB": 5.2
+      }
+    ]
+  }
